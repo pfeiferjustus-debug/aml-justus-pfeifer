@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# data (not versioned)
+data/raw/
+data/processed/
+data_derived/
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# environments
+.venv/
+.env/
