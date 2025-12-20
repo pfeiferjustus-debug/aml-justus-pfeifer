@@ -2,7 +2,8 @@
 .DS_Store
 
 # data
-data/raw/              # raw data stays local (not versioned)
+# raw data stays local (not versioned)
+data/raw**
 
 # NOTE:
 # - data/processed/ is versioned (contains processed.csv / model_ready.csv)
