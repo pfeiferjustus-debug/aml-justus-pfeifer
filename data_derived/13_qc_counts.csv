@@ -1,0 +1,2 @@
+n_rows,distance_eq_0,moving_time_eq_0,elapsed_time_eq_0,elapsed_lt_moving,stop_time_negative,stop_time_zero,stop_ratio_gt_0_5,stop_ratio_gt_0_8,avg_speed_gt_50,avg_speed_gt_60
+9410,26,0,0,0,0,1073,261,40,0,0

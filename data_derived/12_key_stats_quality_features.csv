@@ -1,0 +1,2 @@
+stop_ratio_min,stop_ratio_median,stop_ratio_p95,stop_ratio_p99,stop_ratio_max,avg_speed_kmh_min,avg_speed_kmh_median,avg_speed_kmh_p95,avg_speed_kmh_p99,avg_speed_kmh_max,pace_minpkm_min,pace_minpkm_median,pace_minpkm_p95,pace_minpkm_p99,pace_minpkm_max
+0.0,0.0882122217196844,0.428986460064522,0.6427432359528861,0.9604369377639067,0.0,20.69769066021519,28.140895022417684,33.31100024564237,44.92219816362889,1.335642565429463,2.897050911573218,4.48428892724648,6.734160910048553,301611.1111111111

@@ -1,10 +1,12 @@
 # macOS
 .DS_Store
 
-# data (not versioned)
-data/raw/
-data/processed/
-data_derived/
+# data
+data/raw/              # raw data stays local (not versioned)
+
+# NOTE:
+# - data/processed/ is versioned (contains processed.csv / model_ready.csv)
+# - data_derived/ is handled via data_derived/.gitignore (selective tracking)
 
 # python
 __pycache__/

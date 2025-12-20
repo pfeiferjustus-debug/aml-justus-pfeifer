@@ -1,0 +1,2 @@
+rows_before,rows_after,rows_removed,removed_pct,cols_removed
+10158,9492,666,6.56,"age_group, average_speed, max_speed, hashed_id, gender, start_coordinates, end_coordinates, start_date_local"

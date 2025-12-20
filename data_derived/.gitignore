@@ -1,0 +1,13 @@
+*
+
+# Keep this file
+!.gitignore
+
+# Allow meaningful derived artifacts (small, report-like)
+!*report*.csv
+!*metrics*.csv
+!*cv_results*.csv
+!*importance*.csv
+!*feature*.csv
+!*predictions*.csv
+

@@ -1,0 +1,7 @@
+,count
+flag_stop_ratio_gt_0_8,40
+flag_distance_eq_0,26
+flag_pace_gt_30,22
+flag_elapsed_lt_moving,0
+flag_stop_time_negative,0
+flag_avg_speed_gt_45,0
