@@ -1,24 +1,36 @@
 # macOS
 .DS_Store
 
-# data
-# raw data stays local (not versioned)
-data/raw**
+# ---------------------------------------
+# Data handling (project policy)
+# ---------------------------------------
 
-# NOTE:
-# - data/processed/ is versioned (contains processed.csv / model_ready.csv)
-# - data_derived/ is handled via data_derived/.gitignore (selective tracking)
+# Raw data stays local (not versioned)
+data/raw/
 
-# python
+# Generated artifacts should NOT be versioned
+data/processed/
+data_derived/
+plots/
+
+# ---------------------------------------
+# Jupyter / Python
+# ---------------------------------------
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+.ipynb_checkpoints/
 
-# environments
+# ---------------------------------------
+# Environments / secrets
+# ---------------------------------------
 .venv/
 .env/
+.envrc
 
-# cleanup helper files
+# ---------------------------------------
+# Cleanup helper files (local only)
+# ---------------------------------------
 cleanup_candidates_*.txt
+untracked_all.txt
+untracked_cleanup_candidates.txt
 _trash_cleanup/
-
