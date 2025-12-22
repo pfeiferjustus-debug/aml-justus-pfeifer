@@ -1,5 +1,0 @@
-rule,rows_before,rows_after,rows_removed,removed_pct
-"elapsed_time between (600, 36000)",10158,9749,409,4.02638314628864
-"moving_time between (600, 36000)",9749,9651,98,1.0052313057749511
-highest_elevation < 5000,9651,9494,157,1.626774427520464
-lowest_elevation > -430,9494,9492,2,0.02106593638087213
