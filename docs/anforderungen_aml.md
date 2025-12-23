@@ -1,4 +1,4 @@
-# AML – Anforderungen Projektdokumentation (Dozent)
+# AML – Anforderungen Projektdokumentation
 
 ## Muss-Inhalte (1–9)
 1. **Problembeschreibung**
