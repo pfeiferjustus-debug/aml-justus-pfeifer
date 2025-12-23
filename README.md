@@ -7,7 +7,7 @@ Vorhersage der Fahrtdauer von Fahrradaktivitäten als Regressionsproblem.
 **Wichtig:** `elapsed_time` ist im Datensatz vorhanden, wird aber **nicht** als Feature verwendet.
 
 ## Repository-Struktur
-- `notebooks/` – Notebooks 01–08 (08 = Final Report / Abgabe)
+- `notebooks/` – Notebooks 01–08 (08 = Final Report)
 - `data/raw/` – Rohdaten (lokal, nicht versioniert)
 - `data/processed/` – erzeugte Datensätze (`processed.csv`, `model_ready.csv`) (lokal)
 - `data_derived/` – erzeugte Tabellen/Artefakte (lokal)
