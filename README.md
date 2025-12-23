@@ -4,7 +4,7 @@
 Vorhersage der Fahrtdauer von Fahrradaktivitäten als Regressionsproblem.  
 **Target:** `moving_time` (Sekunden)
 
-**Wichtig (Leakage-Regel):** `elapsed_time` ist im Datensatz vorhanden, wird aber **nicht** als Feature verwendet.
+**Wichtig:** `elapsed_time` ist im Datensatz vorhanden, wird aber **nicht** als Feature verwendet.
 
 ## Repository-Struktur
 - `notebooks/` – Notebooks 01–08 (08 = Final Report / Abgabe)
